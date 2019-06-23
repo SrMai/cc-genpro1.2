@@ -49,7 +49,7 @@ elif choice == 3:
 elif choice == 4:
          os.system("python2 checker")
 elif choice == 5:
-         os.system("cat BinGuardados.txt")
+         os.system("cat Binguardados.txt")
 
 elif choice == 6:
          os.system("clear")
